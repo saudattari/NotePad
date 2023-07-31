@@ -1,0 +1,28 @@
+E:\1Visual Repository\ListBox\ListBox\bin\Debug\ListBox.exe.config
+E:\1Visual Repository\ListBox\ListBox\bin\Debug\ListBox.exe
+E:\1Visual Repository\ListBox\ListBox\bin\Debug\ListBox.pdb
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.csproj.SuggestedBindingRedirects.cache
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.exe
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.pdb
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.Form2.resources
+E:\1Visual Repository\ListBox\ListBox\bin\Debug\Guna.UI2.dll
+E:\1Visual Repository\ListBox\ListBox\obj\Debug\ListBox.csproj.CopyComplete
+E:\1Visual\ListBox\ListBox\bin\Debug\ListBox.exe.config
+E:\1Visual\ListBox\ListBox\bin\Debug\ListBox.exe
+E:\1Visual\ListBox\ListBox\bin\Debug\ListBox.pdb
+E:\1Visual\ListBox\ListBox\bin\Debug\Guna.UI2.dll
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.csproj.SuggestedBindingRedirects.cache
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.Form2.resources
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.csproj.CopyComplete
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.exe
+E:\1Visual\ListBox\ListBox\obj\Debug\ListBox.pdb
